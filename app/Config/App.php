@@ -18,7 +18,7 @@ class App extends BaseConfig
      */
 public string $baseURL = 'http://localhost/Modul7_Pemrograman_WebII/public/';
 /**Ganti .env nya juga dengan http://localhost/Modul7_Pemrograman_WebII/public/' agar halamn utama bisa diakses. karena sebelumnya pakai http://localhost/PRAK701/public
-    /** jadi saya ganti di app.php di github karena envnya tdk bia diedit di github karena hidden, ga sengaja mengubah nama file utamanya
+    /** jadi saya ganti di app.php di github dan envnya tdk bia diedit di github karena hidden, ga sengaja mengubah nama file utamanya. jadi kalau mau meriksa laporan saya ubah .envnya dulu dibagian baseurlnya
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
      * If you want to accept multiple Hostnames, set this.
      *
